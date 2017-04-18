@@ -1,0 +1,8 @@
+requests
+lxml
+beautifulsoup4
+pytest
+pytest-cov
+pytest-repeat
+jsonpath-rw
+flaky
